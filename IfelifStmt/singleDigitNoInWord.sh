@@ -16,27 +16,27 @@ then
 
 elif [ $number -eq 4 ]
 then
-   echo "four"
+	echo "four"
 
 elif [ $number -eq 5 ]
 then
-   echo "five"
+	echo "five"
 
 elif [ $number -eq 6 ]
 then
-   echo "six"
+	echo "six"
 
 elif [ $number -eq 7 ]
 then
-   echo "seven"
+	echo "seven"
 
 elif [ $number -eq 8 ]
 then
-   echo "eight"
+	echo "eight"
 
 elif [ $number -eq 9 ]
 then
-   echo "nine"
+	echo "nine"
 
 elif [ $number -eq 0 ]
 then
