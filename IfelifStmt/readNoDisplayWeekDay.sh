@@ -16,7 +16,7 @@ echo $number
 
 if [ $number -eq $sunday ]
 then
-	echo"sunday"
+   echo"sunday"
 elif [ $number -eq $monday ]
 then
    echo "monday"
@@ -40,5 +40,5 @@ elif [ $number -eq $saturday ]
 then
    echo "Saturday"
 else
-	echo "invalid input"
+   echo "invalid input"
 fi
