@@ -19,6 +19,6 @@ elif [ $number -eq 1000 ]
 then
    echo "thousand"
 else
-	echo " "
+   echo " "
 fi
 
