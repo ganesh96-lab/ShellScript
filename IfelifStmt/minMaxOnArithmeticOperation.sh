@@ -22,7 +22,7 @@ echo "Expression 4: "$resExp4
 echo "Maximum Result of Expression............................................................................."
 if [[ $resExp1 -gt $resExp2 && $resExp1 -gt $resExp3 && $resExp1 -gt $resExp4 ]]
 then
-	echo "First expression is maximum"
+   echo "First expression is maximum"
 
 elif [[ $resExp2 -gt $resExp1 && $resExp2 -gt $resExp3 && $resExp2 -gt $resExp4 ]]
 then
